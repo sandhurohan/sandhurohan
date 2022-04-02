@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sandhurohan
 - 👀 I’m interested in ... Coding & Networking.
 - 🌱 I’m currently learning ... C++.
-- 💞️ I’m looking to collaborate on ... Java
+- 💞️ I’m looking to collaborate on ... Python3
 - 📫 How to reach me ... Instagram --   @white_devil_61
 
 <!---
