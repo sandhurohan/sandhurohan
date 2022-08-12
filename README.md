@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
  <br>
-  👀 I’m Interested in ...............................................................   &nbsp Coding & Networking. <br>
+  👀 I’m Interested in ...............................................................   &nbsp Coding <br>
   💞️ I’m looking to Collaborate on .....................................  &nbsp Python3<br>
   🌱 I’m currently Learning ....................................................   &nbsp JavaScript <br>
   📝 My Personal Work ............................................................  &nbsp Data Analysis <br>
-  📫 How to Reach Me .............................................................   &nbsp @white_devil_61 <br>
+  📫 Languages Known ............................................................   &nbsp HTML5/CSS <br>
 
 <br><br><br><br>
 <h2 align="center">Connect with Me</h2>
