@@ -13,7 +13,7 @@
   📫 How to Reach Me ................................................................   &nbsp @white_devil_61 <br>
 
 <br><br><br><br>
-<h2 align="center">Connect with Me:</h2>
+<h2 align="center">Connect with Me</h2>
 <br>
 <p align="center">
 <a href="https://linkedin.com/in/rohin-sandhu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohin-sandhu" height="30" width="40" /></a>
@@ -24,7 +24,7 @@
 &nbsp &nbsp
 </p>
 <br>
-<h2 align="center">Languages and Tools:</h2>
+<h2 align="center">Languages and Tools</h2>
 <br>
 <p align="center"> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
@@ -63,9 +63,11 @@
 </p>
 
 <p><br></p>
+<h2 align="center">Streaks & Contributions </h2>
 <center><img src="https://github-readme-streak-stats.herokuapp.com/?user=sandhurohan&" alt="sandhurohan" align="center" width="900" height="200" /></center><br>
 <p><br></p>
 <p>
+<h2 align="center"> Statistical Information </h2>
 <center><img align="center" src="https://github-readme-stats.vercel.app/api?username=sandhurohan&show_icons=true&locale=en" alt="sandhurohan" width="900" height="200" /></center>
 </p>
 <p><br></p>
