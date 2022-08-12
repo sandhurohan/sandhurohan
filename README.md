@@ -9,12 +9,13 @@
   👀 I’m Interested in ..................................................................   &nbsp Coding & Networking. <br>
   💞️ I’m looking to Collaborate on ........................................  &nbsp Python3<br>
   🌱 I’m currently Learning .......................................................   &nbsp JavaScript <br>
-  📝 My Personal Work .................................................................   &nbsp Analysis /<br>
-  📫 How to Reach Me ................................................................   &nbsp white_devil_61 <br>
+  📝 My Personal Work ...............................................................  &nbsp Data Analysis <br>
+  📫 How to Reach Me ................................................................   &nbsp @white_devil_61 <br>
 
-<h2 align="left">Connect with Me:</h2>
+<br><br><br><br>
+<h2 align="center">Connect with Me:</h2>
 <br>
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/rohin-sandhu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohin-sandhu" height="30" width="40" /></a>
 &nbsp &nbsp
 <a href="https://instagram.com/white_devil_61" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="white_devil_61" height="30" width="40" /></a>
@@ -22,10 +23,10 @@
 <a href="https://auth.geeksforgeeks.org/user/rohin sandhu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rohin sandhu" height="30" width="40" /></a>
 &nbsp &nbsp
 </p>
-
-<h2 align="left">Languages and Tools:</h2>
 <br>
-<p align="left"> 
+<h2 align="center">Languages and Tools:</h2>
+<br>
+<p align="center"> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 &nbsp &nbsp
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
@@ -60,10 +61,11 @@
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
 <br>
 </p>
+
 <p><br></p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandhurohan&show_icons=true&locale=en&layout=compact" alt="sandhurohan" height="200" />
-
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandhurohan&show_icons=true&locale=en" alt="sandhurohan" height="200" />
-<br><br><p>
-
-<center><img src="https://github-readme-streak-stats.herokuapp.com/?user=sandhurohan&" alt="sandhurohan" align="center" width="900" height="200" /></center>
+<center><img src="https://github-readme-streak-stats.herokuapp.com/?user=sandhurohan&" alt="sandhurohan" align="center" width="900" height="200" /></center><br>
+<p><br></p>
+<p>
+<center><img align="center" src="https://github-readme-stats.vercel.app/api?username=sandhurohan&show_icons=true&locale=en" alt="sandhurohan" width="900" height="200" /></center>
+</p>
+<p><br></p>
