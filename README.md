@@ -13,6 +13,7 @@
   📫 Languages Known ............................................................   &nbsp HTML5/CSS <br>
 
 <br><br><br><br>
+<p>
 <h2 align="center">Connect with Me</h2>
 <br>
 <p align="center">
@@ -23,7 +24,9 @@
 <a href="https://auth.geeksforgeeks.org/user/rohin sandhu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rohin sandhu" height="30" width="40" /></a>
 &nbsp &nbsp
 </p>
+</p>
 <br>
+
 <h2 align="center">Languages and Tools</h2>
 <br>
 <p align="center"> 
