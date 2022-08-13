@@ -12,6 +12,7 @@
   📝 My Personal Work ............................................................  &nbsp Data Analysis <br>
   📫 Languages Known ............................................................   &nbsp HTML5/CSS <br>
 
+</p>
 <br><br><br><br>
 <p>
 <h2 align="center">Connect with Me</h2>
