@@ -4,11 +4,11 @@
 <img align="right" height="350" width="450" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
  <br>
-  👀 I’m Interested in ..........................................................   &nbsp Coding <br>
-  💞️ I’m looking to Collaborate on ................................  &nbsp Python3<br>
-  🌱 I’m currently Learning ...............................................   &nbsp JavaScript <br>
-  📝 My Personal Work .......................................................  &nbsp Data Analysis <br>
-  📫 Languages Known .......................................................   &nbsp HTML5/CSS <br>
+  👀 I’m Interested in ......................................................   &nbsp Coding <br>
+  💞️ I’m looking to Collaborate on ............................  &nbsp Python3<br>
+  🌱 I’m currently Learning ...........................................   &nbsp JavaScript <br>
+  📝 My Personal Work ...................................................  &nbsp Data Analysis <br>
+  📫 Languages Known ...................................................   &nbsp HTML5/CSS <br>
   
 </p>
 <br><br><br>
