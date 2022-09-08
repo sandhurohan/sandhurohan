@@ -1,5 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandhurohan&label=Profile%20views&color=0e75b6&style=flat" alt="sandhurohan" /> </p>
-<h1 align="center">Hi 👋, I'm Rohin Sandhu</h1>
+<h1 align="center">ROHIN SANDHU</h1>
 <h3 align="center">Software Development &nbsp | &nbsp Machine Learning &nbsp | &nbsp Web Development</h3>
 <img align="right" height="300" width="450" src="https://user-images.githubusercontent.com/58396970/184476472-103ebb36-c428-425a-b7f6-79f920ab54ff.gif">
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
