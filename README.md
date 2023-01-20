@@ -68,10 +68,6 @@
 <h2 align="center">Streaks & Contributions </h2>
 <center><img src="https://github-readme-streak-stats.herokuapp.com/?user=sandhurohan&" alt="sandhurohan" align="center" width="900" height="200" /></center>
 <p><br></p>
-<p>
-<h2 align="center"> Statistical Information </h2>
-<center><img align="center" src="https://github-readme-stats.vercel.app/api?username=sandhurohan&show_icons=true&locale=en" alt="sandhurohan" width="900" height="200" /></center>
-</p>
 <p><br></p>
 <h2 align="center"> Snake Eating Contribution Graph </h2>
 <img src="https://github.com/sandhurohan/sandhurohan/blob/output/github-contribution-grid-snake.svg" title="Contributions" alt="Contributions" width="900" height="250" />
