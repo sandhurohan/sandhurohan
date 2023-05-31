@@ -6,8 +6,8 @@
  <br>
   👀 I’m Interested in ......................................................   &nbsp Coding <br>
   💞️ I’m looking to Collaborate on ............................  &nbsp Python3<br>
-  🌱 I’m currently Learning ...........................................   &nbsp JavaScript <br>
-  📝 My Personal Work ...................................................  &nbsp Data Analysis <br>
+  🌱 I’m currently Learning ...........................................   &nbsp FastAPI <br>
+  📝 My Personal Work ...................................................  &nbsp Machine Learning <br>
   📫 Languages Known ...................................................   &nbsp HTML5/CSS <br>
   
 </p>
