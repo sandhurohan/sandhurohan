@@ -4,7 +4,7 @@
 <img align="right" height="300" width="450" src="https://user-images.githubusercontent.com/58396970/184476472-103ebb36-c428-425a-b7f6-79f920ab54ff.gif">
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
  <br>
-  👀 I’m Interested in ......................................................   &nbsp Coding <br>
+  👀 I’m Interested in ......................................................   &nbsp Artificial Intelligence  <br>
   💞️ I’m looking to Collaborate on ............................  &nbsp Python3<br>
   🌱 I’m currently Learning ...........................................   &nbsp FastAPI <br>
   📝 My Personal Work ...................................................  &nbsp Machine Learning <br>
